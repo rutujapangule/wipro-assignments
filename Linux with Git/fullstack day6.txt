@@ -1,0 +1,67 @@
+Git Commands :
+
+Ans. 
+
+1. git init :   Initializes a new Git repository in the current directory.
+
+2. git clone [repository URL]:   Copies a remote repository to your local machine.
+
+3. git add [file]:   Adds a file or changes in a file to the staging area.
+
+4. git commit -m "[commit message]":   Commits changes from the staging area to the repository with a descriptive message.
+
+5. git status:   Shows the current state of the working directory and the staging area.
+
+6. git diff:   Shows the difference between the working directory and the staging area.
+
+7. git diff --staged:   Shows the difference between the staging area and the last commit.
+
+8. git branch:   Lists all branches in the repository.
+
+9. git branch [branch name]:   Creates a new branch.
+
+10. git checkout [branch name]:   Switches to the specified branch.
+
+11. git checkout -b [branch name]:   Creates a new branch and switches to it.
+
+12. git merge [branch name]:   Merges changes from the specified branch into the current branch.
+
+13. git pull:   Fetches changes from the remote repository and merges them into the current branch.
+
+14. git push:   Pushes local changes to the remote repository.
+
+15. git remote:   Lists all remote repositories.
+
+16. git remote add [name] [URL]:   Adds a new remote repository.
+
+17. git log:   Displays a log of commits.
+
+18. git reset [file]:   Removes a file from the staging area while keeping its changes.
+
+19. git reset --hard:   Resets the working directory and staging area to match the last commit.
+
+20. git revert [commit]:   Reverts the changes introduced by a specific commit.
+
+21. git stash:   Stashes changes in the working directory for later use.
+
+22. git stash pop:   Applies the most recently stashed changes to the working directory.
+
+23. git tag:   Lists all tags in the repository.
+
+24. git tag [tag name] [commit]:   Creates a lightweight tag at a specific commit.
+
+25. git tag -a [tag name] -m "[tag message]":   Creates an annotated tag with a message.
+
+26. git fetch:   Fetches changes from the remote repository without merging them.
+
+27. git remote -v:   Shows the URLs of remote repositories.
+
+28. git config --global user.name "[name]":   Sets the global username for Git.
+
+29. git config --global user.email "[email]":   Sets the global email for Git.
+
+30. git rm [file]:   Removes a file from the working directory and stages the deletion.
+
+
+
+ 

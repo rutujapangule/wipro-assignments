@@ -1,0 +1,96 @@
+Q. 1  write the network terminologies with example
+
+Ans.
+
+1. IP address : a unique address for each device on a network.
+    ex. 192.168.1.1
+
+2. MAC address :  a unique ID for network hardware like your computer's wi-fi or ethernet card.
+  ex.  00:1A:2B:3C:4D:5E
+
+3. Router :  connects different networks and directs data.
+  ex. home wi-fi router.
+
+4. Switch :  connects multiple devices on the same network and sends data to the right device.
+ex.  network switch in an office.
+
+5.  firewall :  blocks unauthorized access and threats.
+ex. software or hardware protecting your network.
+
+6. DNS :  translates website names to IP addresses.
+ex. turns www.example.com into an IP address.
+
+7. DHCP :  automatically assigns IP addresses to devices.
+ ex. automatically gives your computer an IP address when you connect to wi-fi.
+
+8. LAN :  A network covering a small area.
+ ex.  your home or office network.
+
+9. WAN : a network covering a large area.
+ex. the Internet
+
+10. VPN :  securely connects you to the internet and hides your online activity.
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Q. 2  Draw your Home Network Topology and explain how you are accessing the RPS Lab environment.
+Ans.
+
+in our hostel, the internet is provided by an ISP and enters the building through a main router or modem. 
+This main router distributes the connection via Ethernet cables to various access points placed throughout the hostel.
+In my room, I connect my devices to the Wi-Fi network broadcasted by the nearest access point. 
+When I use the internet, my device communicates with the access point, which sends the data through the Ethernet cable to the main router, 
+and then to the ISP for accessing the internet.
+ 
+
+         internet
+            |
+        ISP provider
+            |
+       main router/modem
+            |
+        ethernet cabling
+            |
+       access point --> my room --> my laptop
+
+
+this setup ensures a reliable and fast internet connection for all residents
+
+----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Q. 3  Identify a real-world application for both parallel computing and networked systems. Explain how these technologies are used and why they are important in that context.
+
+Ans. 
+
+real-world application : weather forecasting 
+
+Parallel Computing:
+
+how it is used:
+Parallel computing involves using multiple processors or computers working together to solve a problem faster. In weather forecasting, huge amounts of data are collected from various sources like satellites, weather stations, and sensors. This data is then processed using complex mathematical models to predict the weather.
+example:
+Imagine you have a huge math problem that would take a single computer a week to solve. Instead, you divide the problem into smaller parts and give each part to a different computer. All the computers work at the same time (in parallel), and the problem is solved much faster.
+
+importantance :
+weather forecasts need to be accurate and timely to warn people about severe weather conditions like hurricanes or tornadoes. Parallel computing allows meteorologists to process massive datasets quickly, leading to faster and more accurate weather predictions, which can save lives and help people prepare for bad weather.
+
+networked systems:
+
+Networked systems involve connecting multiple computers or devices so they can share data and resources. In weather forecasting, data is collected from all over the world and shared in real-time among different weather centers and organizations.
+
+example:
+think of a classroom where each student has a piece of a puzzle. by connecting and sharing their pieces, they can quickly complete the entire puzzle. Similarly, weather stations, satellites, and computers around the world share their data over the internet.
+
+why It Is important:
+Accurate weather forecasting requires data from many different locations. Networked systems allow for this global data sharing, enabling meteorologists to gather all necessary information quickly and efficiently. This collaboration results in more precise weather models and better forecasts.
+
+
+
+
+
+
+
+
+
+

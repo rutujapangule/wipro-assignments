@@ -1,0 +1,78 @@
+Q.  Linux Commands :
+ans.
+
+1. ls:  List directory contents.
+
+2. cd: Change the current directory.
+
+3. pwd: Print the current working directory.
+
+4. mkdir: Create a new directory.
+
+5. rm: Remove files or directories.
+
+6. cp: Copy files or directories.
+
+7. mv: Move or rename files or directories.
+
+8. touch: Create an empty file or update file timestamps.
+
+9. cat: Concatenate and display file contents.
+
+10. grep: Search for patterns in files.
+
+11. find: Search for files and directories.
+
+12. chmod: Change file permissions.
+
+13. chown: Change file ownership.
+
+14. tar: Create or extract tar archives.
+
+15. gzip/gunzip: Compress or decompress files.
+
+16. df: Display disk space usage.
+
+17. du: Display directory space usage.
+
+18. free: Display system memory usage.
+
+19. top: Display Linux processes.
+
+20. ps: Display information about active processes.
+
+21. kill: Terminate processes.
+
+22. uname: Display system information.
+
+23. ifconfig/ip: Display network interface information.
+
+24. ping: Test network connectivity.
+
+25. ssh: Securely connect to remote servers.
+
+26. scp: Securely copy files between hosts.
+
+27. wget: Download files from the internet.
+
+28. curl: Transfer data from or to a server.
+
+29. man: Display manual pages for commands.
+
+30. history: Display command history.
+
+31. head: Display the beginning of a file.
+
+32. tail: Display the end of a file.
+
+33. grep: Search for patterns in files or output.
+
+34. sort: Sort lines of text files.
+
+35. uniq: Report or omit repeated lines.
+
+
+
+
+
+
